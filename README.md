@@ -1,5 +1,8 @@
 # DevOps Automation with Terraform, Docker, and AWS
 
+### Project Explanation
+https://github.com/piyush8358/Event-Driven-Terraform-Project/assets/96904569/08c73333-7d36-4291-bb67-fe63829fd158
+
 ## Introduction
 
 Welcome to our DevOps Automation Project! In this guide, we will explore how to revolutionize infrastructure provisioning and application deployment using Terraform, Docker, and AWS. By following these comprehensive steps, you will be equipped to automate your infrastructure and leverage the power of cloud automation effectively.
