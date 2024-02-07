@@ -34,6 +34,10 @@ To begin your journey into infrastructure automation, ensure Terraform is instal
 - Attach frontend and backend applications to Docker containers.
 - Install Apache HTTP Server (httpd) inside Docker containers to host your applications.
 
+
+### For Better Understanding read the medium blog 
+https://shorturl.at/qKNP7
+
 ## Conclusion
 
 By automating these steps with Terraform, Docker, and AWS, you can efficiently deploy and manage your applications, allowing you to focus on innovation and development rather than manual infrastructure tasks. This project represents a paradigm shift in infrastructure management practices, offering scalability, reliability, and efficiency in deploying event-driven architectures on AWS. For further exploration and advanced features, refer to the Terraform documentation and best practices. Happy automating!
