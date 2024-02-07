@@ -22,10 +22,6 @@ variable "osname" {
     
   
 }
-# variable "host" {
-#   default = self.public_ip
-# }
 
-# variable "bucket_name" {
-  
-# }
+
+
