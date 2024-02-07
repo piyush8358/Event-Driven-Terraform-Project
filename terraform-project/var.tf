@@ -1,10 +1,10 @@
 variable "Aws_secret_id" {
- default="" 
+ default="*Replace with your's*" 
  sensitive = true
 }
   
 variable "Aws_secret_key" {
-    default = ""
+    default = " Replace with you"
     sensitive = true
 }
 
